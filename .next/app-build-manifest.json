@@ -11,20 +11,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/dashboard/layout.js"
     ],
-    "/dashboard/(overview)/loading": [
+    "/dashboard/invoices/create/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/(overview)/loading.js"
+      "static/chunks/app/dashboard/invoices/create/page.js"
     ],
-    "/dashboard/(overview)/page": [
+    "/dashboard/invoices/error": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/(overview)/page.js"
-    ],
-    "/dashboard/invoices/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/invoices/page.js"
+      "static/chunks/app/dashboard/invoices/error.js"
     ]
   }
 }
